@@ -26,3 +26,7 @@ This text displays ***bold and italic*** text.
 > - Not all elements can be used.
 >
 >  *You’ll* need to experiment to see which ones **work**.
+
+- [x] Headings
+- [x] Text displays
+- [ ] Github Pro
